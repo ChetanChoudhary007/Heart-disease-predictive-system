@@ -24,7 +24,7 @@ Heart disease is a critical health concern. This project utilizes a machine lear
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/ChetanChoudhary007/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
